@@ -1,4 +1,4 @@
-## Hi there 👋
+## We are Escapism 👋
 
 <!--
 
@@ -10,3 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+### Mission
+To empower gamers by delivering engaging, skill-based experiences that celebrate mastery. We create games where every achievement unlocks new challenges and rewards, putting player capability front and center.
+
+### Vision
+We envision a Web3 gaming landscape where every player's skill and unique capabilities are recognized and rewarded.
