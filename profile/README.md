@@ -1,4 +1,4 @@
-## We are Escapism 👋
+## We are Escapicism 👋
 
 <!--
 
