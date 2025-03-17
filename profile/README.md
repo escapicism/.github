@@ -30,4 +30,4 @@ The game is currently in the very early stages of development, in order to run i
 
 **Smart Contract Deployment**
 
-Contract Address: 0xFfd643f648A9cbdF5DcD4FdEC6Be5cfE7640fAF9
+Updated Contract Address: 0xFfd643f648A9cbdF5DcD4FdEC6Be5cfE7640fAF9
